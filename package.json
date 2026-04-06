@@ -21,9 +21,9 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "8.0.0",
+    "@nestjs/common": "10.4.16",
     "@nestjs/config": "1.1.0",
-    "@nestjs/core": "8.0.0",
+    "@nestjs/core": "11.1.18",
     "@nestjs/jwt": "8.0.0",
     "@nestjs/passport": "8.0.1",
     "@nestjs/platform-express": "8.0.0",
@@ -32,13 +32,13 @@
     "@types/bcryptjs": "2.4.2",
     "@types/dotenv": "8.2.0",
     "@types/multer-s3": "2.7.11",
-    "aws-sdk": "2.1028.0",
+    "aws-sdk": "2.1693.0",
     "bcryptjs": "2.4.3",
     "class-transformer": "0.5.1",
     "dotenv": "10.0.0",
     "joi": "17.4.2",
     "multer-s3": "2.10.0",
-    "passport": "0.5.0",
+    "passport": "0.6.0",
     "passport-jwt": "4.0.0",
     "passport-local": "1.0.0",
     "pg": "8.7.1",
@@ -46,7 +46,7 @@
     "rimraf": "3.0.2",
     "rxjs": "7.2.0",
     "swagger-ui-express": "4.1.6",
-    "typeorm": "0.2.41"
+    "typeorm": "0.3.26"
   },
   "devDependencies": {
     "@nestjs/cli": "8.0.0",
